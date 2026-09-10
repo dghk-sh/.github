@@ -1,4 +1,4 @@
-[![Logo der DGhK Regionalverein Schleswig-Holstein e. V.](./Logo_mit_Schriftzug_DGHK_SH-scaled.png)](https://dghk-sh.info/)
+[![Logo der DGhK Regionalverein Schleswig-Holstein e. V.](./Logo_mit_Schriftzug_DGHK_SH.png)](https://dghk-sh.info/)
 
 # DGhK Regionalverein Schleswig-Holstein e. V.
 
