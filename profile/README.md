@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://dghk-sh.info/">
-    <img src="https://dghk-sh.info/wp-content/uploads/2026/06/Logo_mit_Schriftzug_DGHK_SH-scaled.png" alt="Logo der DGhK Regionalverein Schleswig-Holstein e. V." width="600">
+    <img src="Logo_mit_Schriftzug_DGHK_SH-scaled.png" alt="Logo der DGhK Regionalverein Schleswig-Holstein e. V." width="600">
   </a>
 </p>
 
