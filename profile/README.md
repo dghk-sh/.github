@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://dghk-sh.info/">
-    <img src="profile/Logo_mit_Schriftzug_DGHK_SH-scaled.png" alt="Logo der DGhK Regionalverein Schleswig-Holstein e. V." width="600">
-  </a>
-</p>
+[![Logo der DGhK Regionalverein Schleswig-Holstein e. V.](./Logo_mit_Schriftzug_DGHK_SH-scaled.png)](https://dghk-sh.info/)
 
 # DGhK Regionalverein Schleswig-Holstein e. V.
 
