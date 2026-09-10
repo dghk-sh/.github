@@ -1,7 +1,5 @@
 [![Logo der DGhK Regionalverein Schleswig-Holstein e. V.](./Logo_mit_Schriftzug_DGHK_SH.png)](https://dghk-sh.info/)
 
-# DGhK Regionalverein Schleswig-Holstein e. V.
-
 ## Wir begleiten Hochbegabte
 
 Die **Deutsche Gesellschaft für das hochbegabte Kind – Regionalverein Schleswig-Holstein e. V.** setzt sich für hochbegabte Kinder und Jugendliche sowie ihre Familien ein.
